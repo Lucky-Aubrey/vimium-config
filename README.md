@@ -22,7 +22,7 @@ For the rebinding of more vim like naviation of tabs (I mean like in lazyvim) co
 ```
 w: https://www.wikipedia.org/w/index.php?title=Special:Search&search=%s Wikipedia
 g: https://www.google.com/search?q=%s Google
-l: https://www.google.com/search?q=%s&btnI I'm feeling lucky...
+l: https://duckduckgo.com/?q=\%s DuckDuckGo
 y: https://www.youtube.com/results?search_query=%s Youtube
 gm: https://www.google.com/maps?q=%s Google maps
 gpt4: https://chat.openai.com/?model=gpt-4o&q=%s
@@ -31,7 +31,7 @@ gpth: https://chat.openai.com/?model=o3-mini-high&q=%s
 ds: https://chat.deepseek.com/
 pr: https://proxer.me/search?s=search&name=%s&typ=all-anime&tags=&notags=#top
 # b: https://www.bing.com/search?q=%s Bing
-# d: https://duckduckgo.com/?q=%s DuckDuckGo
+d: https://duckduckgo.com/?q=%s DuckDuckGo
 # az: https://www.amazon.com/s/?field-keywords=%s
 # qw: https://www.qwant.com/?q=%s Qwant
 ```

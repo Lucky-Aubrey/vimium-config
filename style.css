@@ -3,12 +3,13 @@
 :root {
   --vimium-lightpink: #ff757f;
   --vimium-lightorange: #ffc777;
+  --vimium-orange: #ff9e64;
   --vimium-green: #c3e88d;
-  --vimium-blue: #3d59a1;
+  --vimium-blue: #41a6b5;
   --vimium-lavender: #bb9af7;
   --vimium-text: #c0caf5;
-  --vimium-surface2: #3b4261;
-  --vimium-surface0: #292e42;
+  --vimium-surface2: #414868;
+  --vimium-surface0: #3b4261;
   --vimium-base: #292e42;
   --vimium-mantle: #24283b;
   --vimium-crust: #1f2335;
@@ -35,7 +36,7 @@
 }
 
 #vomnibar {
-  background: var(--vimium-base);
+  background: var(--vimium-crust);
   border: 2px solid var(--vimium-lavender);
   animation: show 200ms cubic-bezier(0, 0, 0.2, 1) forwards;
   max-height: calc(100vh - 70px);
@@ -85,17 +86,17 @@
 }
 
 #vomnibar li .vomnibarSource {
-  color: var(--vimium-lightorange);
+  color: var(--vimium-lightpink);
 }
 
 #vomnibar li em,
 #vomnibar li .vomnibarTitle {
-  color: var(--vimium-blue);
+  color: var(--vimium-orange);
   font-weight: bold;
 }
 
 #vomnibar li .vomnibarUrl {
-  color: var(--vimium-lightpink);
+  color: var(--vimium-text);
 }
 
 #vomnibar li .vomnibarMatch {
