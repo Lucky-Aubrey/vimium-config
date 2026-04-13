@@ -28,6 +28,7 @@ gm: https://www.google.com/maps?q=%s Google maps
 gpt4: https://chat.openai.com/?model=gpt-4o&q=%s
 gpt: https://chat.openai.com/?model=o3-mini&q=%s
 gpth: https://chat.openai.com/?model=o3-mini-high&q=%s
+gs: https://scholar.google.de/scholar?hl=de&as_sdt=0%2C5&q=%s&btnG=
 ds: https://chat.deepseek.com/
 pr: https://proxer.me/search?s=search&name=%s&typ=all-anime&tags=&notags=#top
 # b: https://www.bing.com/search?q=%s Bing
